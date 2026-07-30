@@ -3,7 +3,7 @@ the OpenCore EFI thing of my HP Z230, with an i7-4770, Intel HD Graphics 4600, a
 working on Big Sur 11.7.11
 wifi is working, also Metal Family: Supported, Metal GPUFamily macOS 1
 issues include:
-audio isnt working yet
+audio isnt working yet, except for USB audio, USB audio works
 i havent found of any other issues yet :P
 
 sry if this isnt a good description, ive never like described smth before
